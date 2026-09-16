@@ -50,9 +50,10 @@ Analyzing the numbered highways reveals that major national arteries—specifica
 ---
 
 ## 🚀 How to Run It
+
 1. Clone the repo:
-git clone [https://github.com/your-username/fintraffic-traffic-pipeline.git](https://github.com/your-username/fintraffic-traffic-pipeline.git)
-2. Open the scripts in Databricks or run them locally in your Python environment (just make sure you have pandas, seaborn, and requests installed).
+   ```bash
+   git clone [https://github.com/kocherzhat3-lgtm/fintraffic-traffic-pipeline.git](https://github.com/kocherzhat3-lgtm/fintraffic-traffic-pipeline.git)
 
 ---
 
