@@ -45,7 +45,8 @@ Analyzing the numbered highways reveals that major national arteries—specifica
 ├── 01_traffic_data_ingestion.py    # Pipeline: Grabs live data from the API & saves it to Delta Lake
 ├── 02_traffic_incidents_eda.py     # EDA: Cleans the data, runs statistics, and builds visual charts
 ├── top_roads.png                   # Visualization: Top 10 numbered roads by incidents
-└── traffic_distribution.png        # Visualization: Distribution of traffic situation types ```
+└── traffic_distribution.png        # Visualization: Distribution of traffic situation types
+```
 
 ---
 
