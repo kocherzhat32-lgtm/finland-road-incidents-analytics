@@ -55,7 +55,8 @@ Analyzing the numbered highways reveals that major national arteries—specifica
 1. Clone the repo:
    ```bash
    git clone [https://github.com/kocherzhat3-lgtm/fintraffic-traffic-pipeline.git](https://github.com/kocherzhat3-lgtm/fintraffic-traffic-pipeline.git)
-
+   ```
+2.Open the scripts in Databricks or run them locally in your Python environment (just make sure you have pandas, seaborn, and requests installed).
 ---
 
 ## 👩‍💻 Author
